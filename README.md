@@ -6,6 +6,7 @@ El frontend del sistema será desarrollado en REACT y Bootstrap.
 La parte del backend estará soportada en los servicios de autenticación (Auth), almacenamiento (firestore).
 
 Características:
+
 ➢ Interfaz de usuario responsive e intuitiva.
 
 ➢ Autenticación de usuarios (email y password).
