@@ -16,6 +16,7 @@ Características:
 ➢ Módulo admin de gestión de libros (crud de libros – solo para usuarios administradores).
 
 ➢ Módulo de búsqueda de libros por título.
+
 ➢ Módulo de registro de préstamo y devolución de libros.(crud de préstamos).
 
 La aplicación cuenta con página de inicio, navbar (presente en todo el sitio), el cual cuenta con links a:
